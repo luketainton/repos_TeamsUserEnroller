@@ -26,5 +26,5 @@ If your policy requires scripts to be digitally signed, run
 # Need help?
 If you need assistance, please try the following:
 1. See the help documentation by running `Get-Help Import-TeamsUsers`.
-1. Check closed issues [here](https://github.com/luketainton/Import-TeamsUsers/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed).
-1. Open an issue [here](https://github.com/luketainton/Import-TeamsUsers/issues/new).
+1. Check closed issues [here](https://git.tainton.uk/repos/TeamsUserEnroller/issues?type=all&state=closed).
+1. Open an issue [here](https://git.tainton.uk/repos/TeamsUserEnroller/issues/new).
